@@ -12,7 +12,7 @@ h1 {
 }
 
 .flexible-container {
-    display: unset;
+    display: flex;
     margin-bottom: 150px;
 }
 
@@ -70,4 +70,14 @@ h1 {
 
 footer p {
     text-align: center;
+}
+
+.half-widthhh {
+    width: 60%;
+    padding-left: 5%;
+
+}
+
+.half-widthhh img {
+    width: 100%;
 }
