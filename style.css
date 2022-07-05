@@ -12,7 +12,7 @@ h1 {
 }
 
 .flexible-container {
-    display: flex;
+    display: unset;
     margin-bottom: 150px;
 }
 
@@ -22,7 +22,7 @@ h1 {
 }
 
 .half-width img {
-    width: 80%;
+    width: 100%;
 }
 
 .link-button {
